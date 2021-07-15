@@ -15,6 +15,7 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="www.adobe.com" target="_blank"> <img src="https://cdn6.aptoide.com/imgs/a/0/8/a0899133b64247a024570b6207322413_icon.png" alt="react" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://jquery.com" target="_blank"> <img src="https://flanp.com/images/jquery-logo.png" alt="express" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="boostrap" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -25,8 +26,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I am studying JS/jquery 
-- :hourglass_flowing_sand:  Exploring JQUERY
+- :computer: I am studying JS
+- :hourglass_flowing_sand:  Exploring ANGULAR
 - :rocket: Always ready to collaborate for Dev Experiments
 
 <h2 align="left">:heart: Let's get connected:</h2>
